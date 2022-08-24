@@ -8,3 +8,6 @@ and @types/react-redux:
 $> npm install --save-exact react-redux redux @types/react-redux redux-thunk@2.3.0 axios@0.21.1
 
 https://registry.npmjs.org/-/v1/search?text=react 
+
+https://react-redux.js.org 
+
